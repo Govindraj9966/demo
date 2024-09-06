@@ -1,3 +1,3 @@
 # demo
 Demo Repo
-Owner - Govind Raj 
+Author - K Govind Raj 
